@@ -42,7 +42,7 @@ https://ambidata.io/docs/esp8266/
 
 6. IDEで転送する。  
 
-7. ambidataで確認する  
+7. ambidata.io で確認する  
 以下のように温度湿度がリアルタイムで[可視化](https://ambidata.io/ch/channel.html?id=12924)できる。
 <p align="center">
 <img src="https://user-images.githubusercontent.com/8604827/61840500-57233f80-aecc-11e9-9f1b-6807a0097c71.jpg" width="750px">
