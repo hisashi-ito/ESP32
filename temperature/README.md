@@ -38,8 +38,10 @@ https://lastminuteengineers.com/esp32-dht11-dht22-web-server-tutorial/
 https://lastminuteengineers.com/esp32-dht11-dht22-web-server-tutorial/  
 https://ambidata.io/docs/esp8266/  
 
-を２つの合わせて割るような感じで作る。``下のものはセンサーが違うものを利用しているので、DHTlibで同じ処理を書き直す感じで。  `emperature.ino` として保存します。
+を２つの合わせて割るような感じで作る。ここで ambidataに関しては事前にユーザ登録を実施してチャネルIDとwriteIDを取得しておく必要がある。またコードはセンサーが違うものを利用しているので、DHTlibで同じ処理を書き直す感じで記述する。  `temperature.ino` として保存します。　　
+
 6. IDEで転送する。  
+
 7. ambidataで確認する  
 以下のように温度湿度がリアルタイムで可視化できる。
 https://ambidata.io/ch/channel.html?id=12924  
