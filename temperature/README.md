@@ -25,4 +25,8 @@ https://lastminuteengineers.com/esp32-arduino-ide-tutorial/
 https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/  
 上記のページを参考に実施する。
 1. 配線をする
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8604827/61839365-3eb12600-aec8-11e9-9696-5d39e3d453d9.png" width="450px">
+</p>
+引用：https://lastminuteengineers.com/esp32-dht11-dht22-web-server-tutorial/
+上記の配線の通り配線する。ESP32はブレッドボードにしっかりと押し込んではめる。
