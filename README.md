@@ -1,7 +1,7 @@
 # ESP32　
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/8604827/61838732-a154f280-aec5-11e9-8a4f-1753364755c8.png" width="300px">
+<img src="https://user-images.githubusercontent.com/8604827/61838732-a154f280-aec5-11e9-8a4f-1753364755c8.png" width="250px">
 </p>
 
 #### 1. はじめに  
