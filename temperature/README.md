@@ -15,13 +15,13 @@ DHT22(温度センサー・秋月電子で1400円ぐらいした）とESP32を�
 
 ## 作り方  
 基本的にすべてリンクを参考にする。  
-1. ARDUINO IDE のインストール
+1. ARDUINO IDE のインストール  
 https://www.arduino.cc/en/Main/Software  
 IDEをダウンロードしてインストールする。
-1. ESP32 のライブラリのインストール
+1. ESP32 のライブラリのインストール  
 https://lastminuteengineers.com/esp32-arduino-ide-tutorial/  
 上記ページを参考に実施する
-1. 温度センサーのライブラリ(DHTlib)をIDEへインストールする。
+1. 温度センサーのライブラリ(DHTlib)をIDEへインストールする。  
 https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/  
 上記のページを参考に実施する。
 1. 配線をする
