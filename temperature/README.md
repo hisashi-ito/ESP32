@@ -43,6 +43,5 @@ https://ambidata.io/docs/esp8266/
 6. IDEで転送する。  
 
 7. ambidataで確認する  
-以下のように温度湿度がリアルタイムで可視化できる。
-https://ambidata.io/ch/channel.html?id=12924  
+以下のように温度湿度がリアルタイムで[可視化](https://ambidata.io/ch/channel.html?id=12924)できる。　
 
